@@ -1,6 +1,6 @@
 
 import java.sql.*;
-
+//File is modified
 public class TestConnection {
    //static final String DB_URL = "jdbc:oracle:thin:@cgsopd1-scan.manulife.com:1521/MIWEB1USVC";
 	static final String DB_URL = "jdbc:oracle:thin:@cgsopp1-scan.manulife.com:1521/miweb1psvc";
